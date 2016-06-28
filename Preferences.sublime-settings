@@ -1,10 +1,10 @@
 {
 	"auto_match_enabled": false,
-	"color_scheme": "Packages/Base16 Color Schemes/base16-default.dark.tmTheme",
+	"color_scheme": "Packages/Base16 Color Schemes/themes/base16-default-dark.tmTheme",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro Medium",
-	"font_size": 10,
+	"font_size": 12,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
