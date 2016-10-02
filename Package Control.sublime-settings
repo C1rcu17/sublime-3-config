@@ -9,5 +9,9 @@
 		"Package Control",
 		"SideBarEnhancements",
 		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/SideBarEnhancements/tree/st3"
 	]
 }
